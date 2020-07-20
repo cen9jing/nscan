@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"scanfactory"
-	. "types"
+	"github.com/cen9jing/nscan/src/scanfactory"
+	. "github.com/cen9jing/nscan/src/types"
 	"os"
 )
 
