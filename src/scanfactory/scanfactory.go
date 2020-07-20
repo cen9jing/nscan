@@ -2,7 +2,7 @@ package scanfactory
 
 import (
 	"fmt"
-	. "types"
+	. "github.com/cen9jing/nscan/src/types"
 )
 
 type Addrs struct {
