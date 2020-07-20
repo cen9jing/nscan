@@ -1,7 +1,7 @@
 package scanfactory
 
 import (
-	. "types"
+	. "github.com/cen9jing/nscan/src/types"
 	"net"
 	"strconv"
 	"time"
